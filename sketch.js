@@ -18,7 +18,7 @@ buttonimg=loadImage("button.png")
 playimg=loadImage("Marathon.PNG")
 hitsound=loadSound("hitsound.mp3")
 
-popupimg = loadImage("Popup.png")
+popupimg = loadImage("popup.png")
 trackimg=loadImage("Track1.PNG")
 fonts = loadFont("font4/fonttype.ttf")
 
